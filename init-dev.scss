@@ -428,27 +428,6 @@ h5 {
     display: inline-block;
 }
 
-/*新版放弃下面这个方法*/
-
-.flex-grow1 {
-    -webkit-flex-grow: 1;
-    flex-grow: 1;
-    min-width: 0;
-}
-
-/* emelemt-ui自定义样式 */
-
-.el-cascader-menu__item_num {
-    display: inline-block;
-    position: absolute;
-    color: #8492a6;
-    font-size: 13px;
-    right: 30px;
-}
-
-.el-cascader-menu__item {
-    padding: 8px 40px 8px 20px !important;
-}
 
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
